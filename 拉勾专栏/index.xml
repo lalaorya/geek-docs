@@ -1,17 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>技术文章摘抄 – 拉勾专栏</title>
-    <link>/%E6%8B%89%E5%8B%BE%E4%B8%93%E6%A0%8F/</link>
-    <description>Recent content in 拉勾专栏 on 技术文章摘抄</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/%E6%8B%89%E5%8B%BE%E4%B8%93%E6%A0%8F/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术文章摘抄 – 拉勾专栏</title><link>/%E6%8B%89%E5%8B%BE%E4%B8%93%E6%A0%8F/</link><description>Recent content in 拉勾专栏 on 技术文章摘抄</description><generator>Hugo -- gohugo.io</generator><atom:link href="/%E6%8B%89%E5%8B%BE%E4%B8%93%E6%A0%8F/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

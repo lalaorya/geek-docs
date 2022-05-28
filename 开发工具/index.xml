@@ -1,17 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>技术文章摘抄 – 开发工具</title>
-    <link>/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
-    <description>Recent content in 开发工具 on 技术文章摘抄</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术文章摘抄 – 开发工具</title><link>/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link><description>Recent content in 开发工具 on 技术文章摘抄</description><generator>Hugo -- gohugo.io</generator><atom:link href="/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
